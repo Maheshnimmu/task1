@@ -6,3 +6,6 @@ second half commited from github
 Task 2 
 --- Feature branch change 1 ---
 This line is added in feature branch.
+
+--- Feature branch change 2 ---
+Another improvement in feature branch.
